@@ -1,4 +1,3 @@
-
 #include <Servo.h>
 // create servo object to control a servo 
 Servo myservo;
@@ -65,4 +64,3 @@ void loop() {
   }
 } 
 // END PROGRAM
-  
